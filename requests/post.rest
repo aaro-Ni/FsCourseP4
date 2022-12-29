@@ -2,8 +2,8 @@ POST http://localhost:3003/api/blogs
 content-Type: application/json
 
 {
-    "title": "Kirja",
-  "author": "Kirjailija",
+    "title": "Sodankäynnin taito",
+  "author": "Sun tzu",
   "url": "jotakin",
   "likes": "10"
 }
